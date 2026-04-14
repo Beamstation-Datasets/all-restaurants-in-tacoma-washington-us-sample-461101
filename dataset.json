@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Tacoma, Washington with a population of over 219k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
+  "config_name": "All Restaurants in Tacoma, Washington, US",
+  "export_job_id": "a9239af4-b705-45ed-8846-88b03ffc1a8e",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 461101,
+  "location_name": "Tacoma",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-tacoma-washington-us-sample-461101",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/461101/beamstation_461101_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 64,
+  "sample_sha256": "9d91b7c056a8b3e7956dc44c9660d2bad05d37f2da77b6474ed5ff8acf6c1f58",
+  "sample_size_bytes": 247168,
+  "total_records": 640,
+  "updated_at": "2026-04-09T12:30:23.901034+00:00"
+}
