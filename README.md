@@ -1,6 +1,6 @@
 # All Restaurants in Tacoma, Washington, US
 
-> Free BeamStation sample export with 61 rows and masked direct-contact fields.
+> Free BeamStation sample export with 50 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `461101` |
 | Location | Tacoma |
 | Category | Restaurants |
-| Full dataset size | 617 records |
-| Free sample size | 61 records (9.89%) |
-| Last export | 2026-04-16T12:31:04.003630+00:00 |
+| Full dataset size | 505 records |
+| Free sample size | 50 records (9.9%) |
+| Last export | 2026-04-23T11:54:15.424761+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tacoma-washington-us-sample-461101/releases/download/sample-latest/beamstation_461101_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
