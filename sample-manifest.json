@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b7a1c7e6-f3c7-4bec-b1aa-5c28c3c9ed8e",
+  "export_job_id": "0dea93a6-06ee-49bd-bec8-22936360b008",
   "id_short": 461101,
-  "published_at": "2026-04-19T19:06:56Z",
+  "published_at": "2026-04-23T19:26:13Z",
   "repo_name": "all-restaurants-in-tacoma-washington-us-sample-461101",
   "sample_asset_name": "beamstation_461101_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/461101/beamstation_461101_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_records": 61,
-  "sample_sha256": "f0656972f43e698e641a2d447a13d081fc1adbe1e21ec05763c74160f86ed937",
-  "sample_size_bytes": 226734,
-  "total_records": 617
+  "sample_records": 50,
+  "sample_sha256": "5b9768ff31add20cfcb8f731008e96111249618c76372ec04695d9c645c47c7d",
+  "sample_size_bytes": 199246,
+  "total_records": 505
 }
